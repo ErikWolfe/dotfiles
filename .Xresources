@@ -1,0 +1,9 @@
+XTerm*termName: xterm-256color
+XTerm*locale: true
+XTerm*saveLines: 500
+XTerm*VT100.geometry: 86x47+663+0
+XTerm*faceName: DejaVu Sans Mono (Book):size=10:antialias=false
+XTerm*font: 5x10
+XTerm*background: black
+XTerm*foreground: #00FF00 
+XTerm*selectToClipboard: true
